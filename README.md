@@ -9,5 +9,5 @@
 JavaScript, React, CSS, HTML
 
 #### Контакты
-email: chernyshevddi@yandex.ru
-telegram: ChernyshevDi
+- email: chernyshevddi@yandex.ru
+- telegram: ChernyshevDi
