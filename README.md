@@ -7,3 +7,7 @@
 
 #### Мой стек
 JavaScript, React, CSS, HTML
+
+#### Контакты
+email: chernyshevddi@yandex.ru
+telegram: ChernyshevDi
