@@ -10,7 +10,7 @@
 - Практикую React и JS на курсе Web-разработчик в Яндекс Практикум
 
 #### Мой стек
-JavaScript, React, CSS, HTML
+JavaScript, React, CSS, HTML, Node.js
 
 #### Контакты
 - email: chernyshevddi@yandex.ru
